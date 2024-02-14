@@ -1,5 +1,5 @@
 # Deployed Link
-https://master--laurelfixhealthassignment.netlify.app/
+(https://doctors-slot-booking.netlify.app/)
 
 ## About
 A Slot booking system for Doctors.
