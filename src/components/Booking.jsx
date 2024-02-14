@@ -54,13 +54,6 @@ const Booking = () => {
     setArray2D(newArray2D);
   };
 
-  // const handleCheckboxChangeUsers = (rowIndex, cellIndex) => {
-  //   const newArray2Dd = showSlots.map((row, i) =>
-  //     i === rowIndex ? row.map((cell, j) => (j === cellIndex ? --cell : cell)) : row
-  //   );
-  //   setShowSlots(newArray2Dd);
-  // };
-
   const handleSubmitUser = (event) => {
     // console.log(userDay, " ", userTime);
     event.preventDefault();
